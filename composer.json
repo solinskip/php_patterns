@@ -1,0 +1,15 @@
+{
+  "name": "patterns/patterns",
+  "description": "description",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "solinskip"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "cretionalPatterns\\": "app/creationalPatterns"
+    }
+  }
+}
