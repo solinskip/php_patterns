@@ -14,12 +14,12 @@ use cretionalPatterns\factoryMethod\conceptExample\ConcreteCreator2;
 
 <?php
 
-echo "App: Launched with the ConcreteCreator1.<br>";
+echo "App: Launched with the ConcreteCreator1 . <br>";
 
 $concreteCreator1 = new ConcreteCreator1();
 echo $concreteCreator1->someOperation() . '<br><br>';
 
-echo "App: Launched with the ConcreteCreator2.<br>";
+echo "App: Launched with the ConcreteCreator2 . <br>";
 
 $concreteCreator2 = new ConcreteCreator2();
-echo $concreteCreator2->someOperation() ;
+echo $concreteCreator2->someOperation();
