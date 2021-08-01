@@ -1,9 +1,9 @@
 <?php
 
-use structural\composite\conceptExample\Composite;
-use structural\composite\conceptExample\Leaf;
+use structural\composite\examples\conceptual\Composite;
+use structural\composite\examples\conceptual\Leaf;
 
-require_once '../../../../app/bootstrap.php';
+require_once '../../../../../app/bootstrap.php';
 
 ?>
 

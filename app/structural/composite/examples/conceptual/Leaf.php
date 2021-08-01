@@ -1,6 +1,6 @@
 <?php
 
-namespace structural\composite\conceptExample;
+namespace structural\composite\examples\conceptual;
 
 class Leaf extends Component
 {
