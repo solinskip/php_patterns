@@ -1,6 +1,6 @@
 <?php
 
-namespace cretionalPatterns\factoryMethod\conceptExample;
+namespace creational\factoryMethod\examples\conceptual;
 
 class ConcreteProduct1 implements ProductInterface
 {

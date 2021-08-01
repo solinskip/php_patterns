@@ -1,6 +1,6 @@
 <?php
 
-namespace cretionalPatterns\factoryMethod\conceptExample;
+namespace creational\factoryMethod\examples\conceptual;
 
 /**
  * The Creator class declares the factory method that is supposed to return an

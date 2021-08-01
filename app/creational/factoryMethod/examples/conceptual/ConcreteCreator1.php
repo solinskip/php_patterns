@@ -1,8 +1,8 @@
 <?php
 
-namespace cretionalPatterns\factoryMethod\conceptExample;
+namespace creational\factoryMethod\examples\conceptual;
 
-class ConcreteCreator2 extends AbstractCreator
+class ConcreteCreator1 extends AbstractCreator
 {
     /**
      * Note that the signature of the method still uses the abstract product
@@ -14,6 +14,6 @@ class ConcreteCreator2 extends AbstractCreator
      */
     public function factoryMethod(): ProductInterface
     {
-        return new ConcreteProduct2();
+        return new ConcreteProduct1();
     }
 }

@@ -1,9 +1,9 @@
 <?php
 
-require_once '../../../../app/bootstrap.php';
+use creational\factoryMethod\examples\conceptual\ConcreteCreator1;
+use creational\factoryMethod\examples\conceptual\ConcreteCreator2;
 
-use cretionalPatterns\factoryMethod\conceptExample\ConcreteCreator1;
-use cretionalPatterns\factoryMethod\conceptExample\ConcreteCreator2;
+require_once '../../../../../app/bootstrap.php';
 
 ?>
 

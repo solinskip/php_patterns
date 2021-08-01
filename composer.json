@@ -9,8 +9,9 @@
   ],
   "autoload": {
     "psr-4": {
-      "cretionalPatterns\\": "app/creationalPatterns",
-      "structural\\": "app/structural"
+      "creational\\": "app/creational",
+      "structural\\": "app/structural",
+      "behavioral\\": "app/behavioral"
     }
   }
 }
